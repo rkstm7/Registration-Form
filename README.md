@@ -1,5 +1,9 @@
 # 🧾 User Registration System | Node.js + Express + MongoDB
 
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rkstm7.user-registration-app&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 A basic user registration system built with **Node.js**, **Express**, and **MongoDB**. It allows users to sign up by providing personal details which are then stored securely in a MongoDB database.
 
 ---
@@ -39,7 +43,7 @@ A basic user registration system built with **Node.js**, **Express**, and **Mong
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/user-registration-app.git
+git clone https://github.com/rkstm7/user-registration-app.git
 cd user-registration-app
 
 # 2. Install dependencies
